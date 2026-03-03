@@ -1,0 +1,17 @@
+{
+  "name": "nc-finance-",
+  "version": "1.0.0",
+  "description": "Nest Capital Finance is a professional mortgage brokerage website serving Melbourne and Victoria, Australia. We specialize in home loans, investment loans, commercial finance, refinancing, and SMSF lending.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "tailwindcss": "^4.2.1"
+  }
+}
